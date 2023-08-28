@@ -1,0 +1,63 @@
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.AssemblyInfo.cs
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\HeadQuarter.deps.json
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\HeadQuarter.runtimeconfig.json
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\HeadQuarter.exe
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\Task1Implementation.exe
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\Task1Implementation.deps.json
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\Task1Implementation.runtimeconfig.json
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\Task1Implementation.dll
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\Task1Implementation.pdb
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\HeadQuarter.dll
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\bin\Debug\net6.0\HeadQuarter.pdb
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.CopyComplete
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.dll
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\refint\Task1Implementation.dll
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.pdb
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\Task1Implementation.genruntimeconfig.cache
+C:\Users\User\Desktop\MakeUpOnline\Task1Implementation\obj\Debug\net6.0\ref\Task1Implementation.dll
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\HeadQuarter.deps.json
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\HeadQuarter.runtimeconfig.json
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\HeadQuarter.exe
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\Task1Implementation.exe
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\Task1Implementation.deps.json
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\Task1Implementation.runtimeconfig.json
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\Task1Implementation.dll
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\Task1Implementation.pdb
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\HeadQuarter.dll
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\bin\Debug\net6.0\HeadQuarter.pdb
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.AssemblyInfo.cs
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.CopyComplete
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.dll
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\refint\Task1Implementation.dll
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.pdb
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\Task1Implementation.genruntimeconfig.cache
+C:\Users\User\Desktop\TemplateCode\Task1Implementation\obj\Debug\net6.0\ref\Task1Implementation.dll
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\HeadQuarter.deps.json
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\HeadQuarter.runtimeconfig.json
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\HeadQuarter.exe
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\Task1Implementation.exe
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\Task1Implementation.deps.json
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\Task1Implementation.runtimeconfig.json
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\Task1Implementation.dll
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\Task1Implementation.pdb
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\HeadQuarter.dll
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\bin\Debug\net6.0\HeadQuarter.pdb
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.AssemblyReference.cache
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.GeneratedMSBuildEditorConfig.editorconfig
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.AssemblyInfoInputs.cache
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.AssemblyInfo.cs
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.CoreCompileInputs.cache
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.csproj.CopyComplete
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.dll
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\refint\Task1Implementation.dll
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.pdb
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\Task1Implementation.genruntimeconfig.cache
+E:\3.2\Theory\OS\Quiz 3\Task1Implementation\obj\Debug\net6.0\ref\Task1Implementation.dll

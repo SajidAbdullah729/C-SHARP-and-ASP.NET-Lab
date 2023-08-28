@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Task2Implementation/1.0.0": {
+        "dependencies": {
+          "HeadQuarter": "1.0.0"
+        },
+        "runtime": {
+          "Task2Implementation.dll": {}
+        }
+      },
+      "HeadQuarter/1.0.0": {
+        "runtime": {
+          "HeadQuarter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Task2Implementation/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HeadQuarter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

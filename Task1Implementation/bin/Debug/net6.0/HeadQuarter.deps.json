@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "HeadQuarter/1.0.0": {
+        "runtime": {
+          "HeadQuarter.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HeadQuarter/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
